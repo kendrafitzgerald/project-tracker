@@ -1,0 +1,23 @@
+body {
+    font-family: monospace;
+}
+
+.header {
+    background-color: navy;
+    width: 100%;
+    height: 300px;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
